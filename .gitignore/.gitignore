@@ -1,0 +1,6 @@
+*.terraform/
+*.aws/
+*.snap/
+*.config/
+*.vagrant/
+*.ansible/
